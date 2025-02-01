@@ -13,7 +13,7 @@ export default function Home() {
         }}
       >
         <Worker workerUrl="https://unpkg.com/pdfjs-dist@3.11.174/build/pdf.worker.min.js">
-          <Viewer fileUrl="/1424123.pdf" />
+          <Viewer fileUrl="/164932.pdf" />
         </Worker>
       </div>
     </div>
