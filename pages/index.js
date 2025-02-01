@@ -7,7 +7,8 @@ export default function Home() {
     <div style={{ textAlign: "center", padding: "20px" }}>
       <div
         style={{
-          width: "60%", // Adjust the width as needed
+          height: "100%",
+          width: "100%", // Adjust the width as needed
           margin: "0 auto", // Center the viewer
         }}
       >
